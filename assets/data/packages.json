@@ -1,0 +1,110 @@
+{
+  "packages": [
+
+    {
+      "id": "essential-umrah",
+      "name": "Essential Umrah",
+      "type": "Economy Journey",
+      "category": "umrah",
+      "description": "A simple and dignified Umrah focused on worship and guidance.",
+      "badge": "Economy",
+      "featured": false,
+      "active": true,
+      "seats": "Open",
+      "order": 4,
+      "pdf": "assets/itineraries/essential-umrah.pdf",
+      "features": [
+        "Visa & documentation support",
+        "Economy hotel arrangements",
+        "Guided Umrah rituals",
+        "Group coordination",
+        "Ziyarat assistance"
+      ]
+    },
+
+    {
+      "id": "comfort-umrah",
+      "name": "Comfort Umrah",
+      "type": "Standard Journey",
+      "category": "umrah",
+      "description": "Balanced journey with comfort and structured spiritual support.",
+      "badge": "Standard",
+      "featured": false,
+      "active": true,
+      "seats": "Open",
+      "order": 3,
+      "pdf": "assets/itineraries/comfort-umrah.pdf",
+      "features": [
+        "Better located hotels",
+        "Elder-friendly planning",
+        "Guided Ziyarat sessions",
+        "Dedicated support team",
+        "Smooth group handling"
+      ]
+    },
+
+    {
+      "id": "premium-umrah",
+      "name": "Premium Umrah",
+      "type": "Most Chosen",
+      "category": "umrah",
+      "description": "For families, elders and those seeking peace, closeness and care.",
+      "badge": "Most Chosen",
+      "featured": true,
+      "active": true,
+      "seats": "Limited",
+      "order": 1,
+      "pdf": "assets/itineraries/premium-umrah.pdf",
+      "features": [
+        "Premium hotels near Haram",
+        "Small group batches",
+        "Scholar-guided rituals",
+        "Personal assistance",
+        "Complete journey care"
+      ]
+    },
+
+    {
+      "id": "elite-umrah",
+      "name": "Elite Umrah",
+      "type": "Luxury Journey",
+      "category": "umrah",
+      "description": "Extended spiritual stay with maximum comfort and services.",
+      "badge": "Luxury",
+      "featured": false,
+      "active": true,
+      "seats": "Open",
+      "order": 2,
+      "pdf": "assets/itineraries/elite-umrah.pdf",
+      "features": [
+        "5-star luxury hotels",
+        "Extended stay options",
+        "Private group handling",
+        "Premium transport",
+        "High-touch support"
+      ]
+    },
+
+    {
+      "id": "iraq-ziyarat",
+      "name": "Iraq Ziyarat Special",
+      "type": "Karbala • Najaf • Baghdad",
+      "category": "iraq",
+      "description": "Guided ziyarat journey to the blessed shrines of Iraq.",
+      "badge": "Ziyarat",
+      "featured": false,
+      "active": false,
+      "seats": "Coming Soon",
+      "order": 5,
+      "pdf": "",
+      "features": [
+        "Visa support",
+        "Guided ziyarat",
+        "Historical explanation",
+        "Group management",
+        "On-ground assistance"
+      ]
+    }
+
+  ]
+}
